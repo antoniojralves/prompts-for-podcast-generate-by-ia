@@ -5,27 +5,6 @@
 />
 </p>
 
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
-
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
-
 # Projeto Podcast Gerado por I.A.s
 
 
@@ -48,7 +27,7 @@ O nome deve conter alguma palavra forte que remete ao "Analytics".
 
 - Roteiro gerado via Copilot, conforme prompt a seguir:
 Você é um roteirista de podcast e vamos criar um podcast de tecnologia, focado em Análise de Dados em Auditoria cujo nome é "Analytics Anatomy: A Ciência dos Dados em Auditoria", com público alvo de auditores internos. 
-- O formato do roteiro deve ser:[INTRODUÇÃO] [CURIOSIDADE 1] [CURIOSIDADE 2] [FINALIZAÇÃO]. 
+O formato do roteiro deve ser:[INTRODUÇÃO] [CURIOSIDADE 1] [CURIOSIDADE 2] [FINALIZAÇÃO]. 
 {REGRAS}> 
 No bloco [INTRODUÇÃO] substitua por introdução iguais aos vídeos do canal "ei nerd", como se fossem escritos pelo Peter Jordan. 
 No bloco [CURIOSIDADE 1] substitua por uma curiosidade de Analytics. 
@@ -59,10 +38,9 @@ O podcast deve ser curto.
 {REGRAS NEGATIVAS}. 
 Não use muito termos técnicos. 
 Não ultrapasse 3 minutos de duração
-
 "Foi solicitado que a IA Adicionasse mais curiosidades"
 
-- Audio gerado pela elevenLabs
+- Audio gerado pela ElevenLabs
 
 - Capa gerada via Leonard AI, conforme prompt a seguir:
 An image to be the cover art of a podcast about technology, focused on Data Analysis in Auditing, called "Analytics Anatomy: Data Science in Auditing". It has to: 1. have a futuristic look, 2. have a corporate style.
