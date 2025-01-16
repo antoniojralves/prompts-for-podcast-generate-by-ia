@@ -6,7 +6,7 @@
 </p>
 
 # Projeto Podcast Gerado por I.A.s
-#PODCAST "ANALYTICS ANATOMY: A CIÊNCIA DOS DADOS EM AUDITORIA"
+# PODCAST "ANALYTICS ANATOMY: A CIÊNCIA DOS DADOS EM AUDITORIA"
 
 
 
@@ -48,3 +48,4 @@ An image to be the cover art of a podcast about technology, focused on Data Anal
 
 - Capcut para tratar aúdio e adicionar sons de fundo
 
+## O Podcast, por opção pessoal do desenvolvedor, não foi publicado em nenhuma plataforma.
