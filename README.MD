@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+   src="./Leonardo_Phoenix_10_An_image_to_be_the_cover_art_of_a_podcast_1.jpeg"
     width="300"
 />
 </p>
